@@ -1,4 +1,9 @@
-### Hi there 👋
+<h3>
+  Welcome to Alex Derevyannykh's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+### Hi there 👋 🙋
 
 <!--
 **derevyannykh-aleksei/derevyannykh-aleksei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derevyannykh-aleksei&hide=html&layout=compact)](https://github.com/derevyannykh-aleksei)
 <br/><br/>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=derevyannykh-aleksei&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="itbeard" />
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=oldSorcerer&right_color=red&left_text=Profile%20Views)
