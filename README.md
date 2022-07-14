@@ -1,11 +1,8 @@
 <h3>
   Welcome to Alex Derevyannykh's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 ### Hi there 👋
-
-
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=oldSorcerer&count_private=true&hide=contribs&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&count_private=true&hide=tsql&langs_count=7&theme=default&layout=compact)
