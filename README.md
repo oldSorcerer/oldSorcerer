@@ -3,7 +3,7 @@
 </h3>
 
 ## About me ##
-Hey, I`m Alex Derevyannykh. 
+Hey, I`m Java developer
 
 ### Skills and Tools
 * Java
