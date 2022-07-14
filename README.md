@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derevyannykh-aleksei&hide=html&layout=compact)](https://github.com/derevyannykh-aleksei)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&hide=html&layout=compact)](https://github.com/oldSorcerer)
 <br/><br/>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=oldSorcerer&right_color=red&left_text=Profile%20Views)
