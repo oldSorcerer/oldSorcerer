@@ -1,8 +1,13 @@
 <h3>
-  Welcome to Alex Derevyannykh's profile!
+  Welcome!
 </h3>
 
-**About me**
+## About me ##
+Hey, I`m Alex Derevyannykh. 
+
+### Skills and Tools
+* Java
+
 
 ## 📈 GitHub Stats ## 
 
