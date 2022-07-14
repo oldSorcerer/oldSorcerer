@@ -3,7 +3,7 @@
 </h3>
 
 ## About me ##
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Java**
 - 🌍 I speak Russian (native), English (A2)
 
 ### Languages:
@@ -22,6 +22,8 @@
 ### Support me
 
 If you found this useful, you can buy me a coffee ☕️ or give a star ✨
+
+bitcoin: bc1qxerv8g8tjpa5j0e3xgvp5hnwfqt5p2y743k4np
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=oldSorcerer&right_color=red&left_text=Profile%20Views)
 
