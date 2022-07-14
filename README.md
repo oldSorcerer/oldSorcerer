@@ -3,10 +3,15 @@
 </h3>
 
 ## About me ##
-Hey, I`m Java developer
+- 🌱 I’m currently learning **java**
+- 🌍 I speak Russian (native), English (A2)
 
-### Skills and Tools
+### Languages:
 * Java
+
+### Tools:
+* IntelliJ IDEA
+ 
 
 
 ## 📈 GitHub Stats ## 
@@ -17,6 +22,8 @@ Hey, I`m Java developer
 ### Support me
 
 If you found this useful, you can buy me a coffee ☕️ or give a star ✨
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=oldSorcerer&right_color=red&left_text=Profile%20Views)
 
 
 
