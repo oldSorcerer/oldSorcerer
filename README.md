@@ -4,7 +4,16 @@
 
 ### Hi there 👋
 
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=oldSorcerer&count_private=true&hide=contribs&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&count_private=true&hide=tsql&langs_count=7&theme=default&layout=compact)
+## 📈 GitHub Stats
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=oldSorcerer&right_color=red&left_text=Profile%20Views)
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a>|<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+If you found this useful, you can buy me a coffee ☕️ or give a star ✨
+
+
+
+
+
+
