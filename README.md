@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Stats ## 
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a>|<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a>|<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Support me
