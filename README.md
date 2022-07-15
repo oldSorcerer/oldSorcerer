@@ -4,7 +4,7 @@
 
 ## About me ##
 - 🌱 I’m currently learning **Java**
-- 🌍 I speak Russian (native), English (A2)
+- 🌍 I speak Russian, English
 
 ### Languages:
 * Java
