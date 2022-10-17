@@ -8,7 +8,7 @@
 - 📫  How to reach me: <a href='mailto:aleksei.derevyannykh@gmail.com'>aleksei.derevyannykh@gmail.com</a>
 
 ### Languages:
-* Java
+* Java, SQL
 
 ### Tools:
 * IntelliJ IDEA
