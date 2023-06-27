@@ -21,6 +21,7 @@
 | ------------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" /></a>
+---
 
 ### Support me
 
