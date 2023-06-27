@@ -28,10 +28,12 @@ If you found this useful, you can buy me a coffee ☕️ or give a star ✨
 
 bitcoin: bc1qxerv8g8tjpa5j0e3xgvp5hnwfqt5p2y743k4np
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=oldSorcerer&right_color=red&left_text=Profile%20Views)
 
-
-
+<div style="margin: 40px 0">
+   <a href="https://github.com/oldSorcerer/github-profile-views-counter">
+       <img width="120px" src="https://komarev.com/ghpvc/?username=oldSorcerer&color=orange&style=plastic">
+   </a>
+</div>
 
 
 
