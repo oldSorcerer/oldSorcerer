@@ -20,7 +20,7 @@
 | <a href="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=all&theme=default&hide_border=true" alt="Anurag's github stats" /></a>| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4" /></a> |
 | ------------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=2" ><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=2" /></a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" /></a>
 
 ### Support me
 
