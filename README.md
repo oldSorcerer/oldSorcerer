@@ -22,8 +22,8 @@
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" /></a>
     
-    
-    
+---    
+<p align='center'>
    <a href="https://t.me/oldSorcerer">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
@@ -37,8 +37,6 @@
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
    
-   
-
 ---
 
 ### Support me
