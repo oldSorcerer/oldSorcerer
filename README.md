@@ -44,8 +44,9 @@
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
    
+</div>
 
-### Support me
+## Support me ##
 
 If you found this useful, you can buy me a coffee ☕️ or give a star ✨
 
