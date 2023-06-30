@@ -1,7 +1,5 @@
-<h3>
-  Welcome!
-</h3>
-
+## Hi, I'm Alex! ##
+ I'm Java Developer.
 
 <p align='center'>
    <a href="https://t.me/oldSorcerer">
@@ -44,7 +42,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" /></a>
 
-## Support me ##
+### Support me ###
 
 If you found this useful, you can buy me a coffee ☕️ or give a star ✨
 
