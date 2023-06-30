@@ -2,34 +2,7 @@
   Welcome!
 </h3>
 
-## About me ##
 
-- 🌱 I’m currently learning **Java**
-- 🌍 I speak Russian, English
-
-### Languages:
-
-* Java, SQL
-
-### Tools:
-
-* IntelliJ IDEA
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title ="docker" width="40" height="40"/>&nbsp;
-
-  </div>
-
-## 📈 GitHub Stats ## 
-<div align="center">
-  
-| <a href="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=all&theme=default&hide_border=true" alt="Anurag's github stats" /></a>| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4" /></a> | 
-| ------------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" /></a>
-
-  
-    
 <p align='center'>
    <a href="https://t.me/oldSorcerer">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -45,6 +18,31 @@
    </a>
    
 </div>
+
+## About me ##
+
+- 🌱 I’m currently learning **Java**
+- 🌍 I speak Russian, English
+
+### Languages and tools: 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title ="java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title ="docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title ="github" width="40" height="40"/>&nbsp;
+  
+
+
+
+  </div>
+
+## 📈 GitHub Stats ## 
+<div align="center">
+  
+| <a href="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=all&theme=default&hide_border=true" alt="Anurag's github stats" /></a>| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4" /></a> | 
+| ------------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" ><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oldSorcerer\&layout=compact&langs_count=4" /></a>
 
 ## Support me ##
 
