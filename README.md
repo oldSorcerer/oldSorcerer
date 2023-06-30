@@ -28,6 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title ="java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title ="docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title ="github" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title ="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" title ="tomcat" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title ="git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title ="mysql" width="40" height="40"/>&nbsp;
+
+
+
+
   
 
 
@@ -51,7 +59,7 @@ bitcoin: bc1qxerv8g8tjpa5j0e3xgvp5hnwfqt5p2y743k4np
 
 <div style="margin: 40px 0">
    <a href="https://github.com/oldSorcerer/github-profile-views-counter">
-       <img width="120px" src="https://komarev.com/ghpvc/?username=oldSorcerer&color=orange&style=plastic">
+       <img width="120px" src="https://komarev.com/ghpvc/?username=oldSorcerer&color=DE002D&style=plastic">
    </a>
 </div>
 
