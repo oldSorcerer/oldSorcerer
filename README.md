@@ -9,8 +9,7 @@
   <a href="https://www.linkedin.com/in/oldSorcerer">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   
-   
+      
    <a href="https://instagram.com/oldSorcerer">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
@@ -62,6 +61,4 @@ bitcoin: bc1qxerv8g8tjpa5j0e3xgvp5hnwfqt5p2y743k4np
        <img width="120px" src="https://komarev.com/ghpvc/?username=oldSorcerer&color=DE002D&style=plastic">
    </a>
 </div>
-
-
 
