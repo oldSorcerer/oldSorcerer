@@ -18,7 +18,7 @@
 
 ## About me ##
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** ❤️
 - 🌍 I speak Russian, English
 
 ### Languages and tools: 
