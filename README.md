@@ -34,8 +34,8 @@
 
 <!-- Light Mode -->
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="oldSorcerer's github stats"/>
+<a href="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=default&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oldSorcerer&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=default&hide_border=true" alt="oldSorcerer's github stats"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldSorcerer&layout=compact&theme=default&hide_border=true&langs_count=4"/>
